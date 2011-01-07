@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+- Revised game code to introduce mid /act sequences.
+- Game fully working through levels. Transition between acts now looks better.
+- Game slows down too much in last two acts.
+- Fixed speed problems, it was depending on glows apparently.
+- Added background music, explosion and launch sounds.
+- Added new sounds, applause, boo, and music looping now works correctly.
+- Added sound enable / disable button
+- Finalized Main and guide screen.
+- Done next level and level success screens. 
+- Removed game finished screen.
+- worked on some last minute fixes. 
+- Linked to new leaderboards.
+- Game now gets directly to new game after game over without passing to main screen. This
+was done mainly to avoid a couple bugs that showed up in the main screen after a game over.
+
+FINAL TOUGHTS
+---------------------------------------------------------------------------------------------------
+- Initial work was not on gameplay but on appearance, because in this game eye candy was
+particularly important.
+- Lots of trial and error on visual side. Initial approach (realistic fireworks) was
+totally on the wrong road. Creating more cartoonish in style was both easier and visually appealing.
+- Initial idea about gameplay has been changed, I didn't have to try it to to understand it was worng
+so luckily I did not spend a lot of time implementing it. Being able to analyze gameplay without requiring 
+a fully working prototype can really save time. Something similar happened with atomz but in
+that case I had to see a working version to realize it was not fun enough.
+- The Game screens for next level, start game, game over etc. were not as polished as I wanted to, but I was out of time.
