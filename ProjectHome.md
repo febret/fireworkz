@@ -1,0 +1,1 @@
+Create awesome firework shows across three different world cities. Will you be able to keep up with the challenge, and have public love your creations?
